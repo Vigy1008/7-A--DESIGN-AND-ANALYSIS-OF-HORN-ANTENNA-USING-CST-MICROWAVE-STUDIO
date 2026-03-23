@@ -1,3 +1,6 @@
+## NAME VIGNESHWARAN VINAYAGAMOORTHY
+## REG NO 212223060301
+
 # 7 A)DESIGN-AND-ANALYSIS-OF-HORN-ANTENNA-USING-CST-MICROWAVE-STUDIO
 
 **Aim of the Experiment:** To design a Horn antenna operating at 5.5 GHz and to find the directivity andHalf power beam width form the radiation patterns.
@@ -58,3 +61,4 @@ The horn antenna was successfully designed and simulated using **CST Microwave S
 - **Half Power Beam Width (HPBW):** ≈ 26°  
 
 **Hence, the designed horn antenna provides good impedance matching, high directivity, and a narrow beam width suitable for microwave applications.**
+
